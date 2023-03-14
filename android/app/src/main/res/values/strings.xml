@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Training Application</string>
+    <string name="facebook_app_id">548210980742569</string>
+    <string name="fb_login_protocol_scheme">fb548210980742569</string>
+    <string name="facebook_client_token">863755992fa3ec90015a7a52637f32cf</string>
+</resources>

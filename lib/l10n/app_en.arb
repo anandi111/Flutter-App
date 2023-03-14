@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome!!",
+    "@helloWorld": {
+      "description": "greetings"
+    },
+    "localization": "Localization 😀",
+    "@localization": {
+      "description": "change the language"
+    }
+}
